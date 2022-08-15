@@ -1,5 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianochaves&layout=compact&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/alltime?username=marianochaves)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **MarianoChaves/marianochaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
